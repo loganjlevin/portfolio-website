@@ -90,7 +90,11 @@ ul,
 .navigation-list {
   list-style-type: none;
 }
-
+main {
+  max-width: 1500px;
+  margin: auto;
+  text-align: center;
+}
 .page-header {
   background-color: #af87dd;
   display: -webkit-box;
